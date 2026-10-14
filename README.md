@@ -66,7 +66,7 @@ Playwright + TypeScript automation framework focused on:
 - Debugging and maintainability
 - Jenkins-based test execution
 
-**[View Project on GitHub](YOUR_PLAYWRIGHT_REPO_LINK)**
+**[View Projects on GitHub](https://github.com/hakdogan1)**
 
 ---
 
@@ -95,7 +95,7 @@ Selenium WebDriver + Java project using:
 - Maven
 - Functional & Regression testing
 
-**[View Project on GitHub](YOUR_SELENIUM_REPO_LINK)**
+**[View Projects on GitHub](https://github.com/hakdogan1)**
 
 ---
 
@@ -110,9 +110,14 @@ Selenium WebDriver + Java project using:
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-blue?logo=linkedin)](https://www.linkedin.com/in/hasanakdogan1/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-hakdogan1-black?logo=github)](https://github.com/hakdogan1)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-hakdogan.com-blue?logo=googlechrome)](https://www.hakdogan.com/)
+
 [![QA Lab](https://img.shields.io/badge/QA%20Lab-lab.hakdogan.com-green?logo=googlechrome)](https://lab.hakdogan.com/)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://hakdogan26.medium.com/)
+
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@hakdogan1)
 
 ---
 
