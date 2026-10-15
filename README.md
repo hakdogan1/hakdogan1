@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hasan%20Akdogan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Playwright%20%2B%20TypeScript&descAlignY=60&descSize=18" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Hasan%20Akdogan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Automation%20Engineer&descAlignY=58&descSize=18"
+  alt="Hasan Akdogan - QA Automation Engineer"
+  width="100%"
+/>
 
-<a href="https://www.hakdogan.com">
-  <img src="https://img.shields.io/badge/Portfolio-hakdogan.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://lab.hakdogan.com">
-  <img src="https://img.shields.io/badge/QA%20Lab-Visit%20Lab-16A34A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/hakdogan1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@hakdogan1">
-  <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+### Reliable test automation. Better product quality.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hakdogan.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.hakdogan.com)
+[![QA Lab](https://img.shields.io/badge/QA%20Lab-lab.hakdogan.com-16A34A?style=flat-square&logo=testinglibrary&logoColor=white)](https://lab.hakdogan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanakdogan1/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://hakdogan26.medium.com/)
 
 </div>
 
@@ -21,173 +19,85 @@
 
 ## 👋 About Me
 
-I am a **QA Automation Engineer** focused on building reliable, maintainable, and scalable test automation systems.
+I'm a **QA Automation Engineer** with experience in both manual and automated testing across web and mobile applications.
 
-My primary stack is:
+My primary automation stack is **Playwright + TypeScript**, including building a test automation framework from scratch using the **Page Object Model**. I also have hands-on experience with **Selenium WebDriver + Java**, REST API testing, SQL, Jenkins, and exploratory and regression testing.
 
-- **Playwright**
-- **TypeScript**
-- **Page Object Model**
-- **API Testing**
-- **SQL & Database Validation**
-- **Jenkins CI/CD**
-
-I enjoy finding the scenarios that are easy to miss, investigating defects, improving test coverage, and helping teams release better products with more confidence.
-
-```text
-Quality is not only about finding bugs.
-It is about preventing them from reaching users.
-```
+I focus not only on test execution, but also on **product quality** — identifying missing scenarios, edge cases, usability gaps, and unclear requirements before release.
 
 ---
 
-## 🧪 What I Do
+## 🛠 Tech Stack
 
-- Build end-to-end UI automation frameworks
-- Design reusable Page Objects and test utilities
-- Create smoke and regression test suites
-- Perform functional and exploratory testing
-- Validate REST APIs and database behavior
-- Investigate defects using logs, DevTools, and API responses
-- Improve test coverage and test maintainability
-- Support Agile teams throughout the SDLC
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,java,playwright,selenium,postman,postgres,jenkins,git,github,gitlab,jira,vscode,idea&perline=7" />
-
-</div>
-
-### Automation
-
-`Playwright` `Selenium WebDriver` `Page Object Model` `Cucumber BDD` `JUnit`
-
-### API & Database
-
-`Postman` `REST Assured` `SQL` `PostgreSQL` `JDBC`
-
-### CI/CD & Build
-
-`Jenkins` `Maven` `npm` `GitHub Actions`
-
-### Methodologies
-
-`SDLC` `STLC` `Agile Scrum` `Functional Testing` `Regression Testing`
-
-### AI-Assisted QA
-
-`ChatGPT` `Cursor` `AI-Assisted Test Design` `AI-Assisted Debugging`
+| Area | Tools & Practices |
+| --- | --- |
+| **Test Automation** | Playwright, Selenium WebDriver, Page Object Model, Cucumber BDD, JUnit |
+| **Languages** | TypeScript, Java, JavaScript |
+| **API Testing** | Postman, REST Assured |
+| **Database** | SQL, PostgreSQL, JDBC |
+| **CI & Build** | Jenkins, Maven, npm |
+| **Version Control** | Git, GitHub, GitLab |
+| **Test Management** | Jira, Xray |
+| **Methodologies** | SDLC, STLC, Agile/Scrum |
+| **AI-Assisted QA** | ChatGPT, Cursor |
 
 ---
 
 ## 🚀 Featured Work
 
-### 🎭 Playwright Automation
-
-A modern Playwright + TypeScript automation approach focused on:
-
-- End-to-end UI testing
-- Reusable Page Objects
-- Stable selectors
-- Smoke and regression suites
-- Multi-environment execution
-- Debugging and trace analysis
-- Jenkins-based execution
-
-[Explore my GitHub profile →](https://github.com/hakdogan1)
-
----
-
 ### 🧪 QA Practice Lab
 
-A hands-on environment for practicing realistic QA scenarios:
+A hands-on environment for practicing software testing and test automation using realistic scenarios.
 
-- Registration and login flows
+**Focus areas:**
+
+- Functional and exploratory testing
 - Form and input validation
-- API mock testing
-- Dashboard workflows
+- UI component testing
 - Alerts and keyboard interactions
-- Manual testing scenarios
-- Playwright-ready user journeys
+- Defect identification and analysis
+- Manual testing practice
+- Test automation practice
 
-[Open QA Practice Lab →](https://lab.hakdogan.com)
-
----
-
-### ☕ Selenium + Java Automation
-
-Automation concepts demonstrated with:
-
-- Selenium WebDriver
-- Java
-- Cucumber BDD
-- JUnit
-- Maven
-- Page Object Model
-- Functional and regression testing
-
-[View my repositories →](https://github.com/hakdogan1)
+👉 **[Visit QA Practice Lab](https://lab.hakdogan.com)**
 
 ---
 
-## 🎯 Current Focus
+### 🌐 QA Portfolio
 
-```text
-→ Building reliable Playwright automation frameworks
-→ Improving API and database testing skills
-→ Creating realistic QA practice environments
-→ Applying AI-assisted testing techniques
-→ Making test automation easier to maintain
-```
+My personal QA portfolio featuring testing projects, automation examples, technical resources, and hands-on QA work.
+
+👉 **[Visit Portfolio](https://www.hakdogan.com)**
+
+---
+
+### ✍️ Technical Writing
+
+Articles and notes about software testing, QA automation, Playwright, and modern testing practices.
+
+👉 **[Read on Medium](https://hakdogan26.medium.com/)**
 
 ---
 
 ## 🏆 Certification
 
-**ISTQB® Certified Tester - Foundation Level**
+**ISTQB® Certified Tester – Foundation Level**
 
-[View Certification →](https://app.diplomasafe.com/en-US/diploma/d963230b94165d24da6f439b3a17770919ea1f75e)
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hakdogan1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakdogan1&theme=transparent&hide_border=true" height="165" />
-
-</div>
+👉 [View Certification](https://app.diplomasafe.com/en-US/diploma/d963230b94165d24da6f439b3a17770919ea1f75e)
 
 ---
 
-## 🔗 Let's Connect
+## 📫 Connect With Me
 
-<div align="center">
+I'm open to **QA Automation / Quality Engineering opportunities**, technical collaboration, and conversations about software testing.
 
-<a href="https://github.com/hakdogan1">
-  <img src="https://img.shields.io/badge/GitHub-hakdogan1-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/hakdogan1/">
-  <img src="https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.hakdogan.com/">
-  <img src="https://img.shields.io/badge/Website-hakdogan.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://medium.com/@hakdogan1">
-  <img src="https://img.shields.io/badge/Medium-@hakdogan1-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanakdogan1/)
+[![Email](https://img.shields.io/badge/Email-hakdogan%40live.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hakdogan@live.com)
 
 ---
 
 <div align="center">
 
-### Quality • Automation • Product Thinking • Continuous Improvement
+**Quality • Automation • Product Thinking • Continuous Improvement**
 
 </div>
