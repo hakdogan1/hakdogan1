@@ -8,7 +8,7 @@
 <a href="https://lab.hakdogan.com">
   <img src="https://img.shields.io/badge/QA%20Lab-Visit%20Lab-16A34A?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/hasanakdogan1/">
+<a href="https://www.linkedin.com/in/hakdogan1/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@hakdogan1">
@@ -172,7 +172,7 @@ Automation concepts demonstrated with:
 <a href="https://github.com/hakdogan1">
   <img src="https://img.shields.io/badge/GitHub-hakdogan1-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/hasanakdogan1/">
+<a href="https://www.linkedin.com/in/hakdogan1/">
   <img src="https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.hakdogan.com/">
