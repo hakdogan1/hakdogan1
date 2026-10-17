@@ -9,7 +9,7 @@
 ### Reliable test automation. Better product quality.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hakdogan.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.hakdogan.com)
-[![Validation Lab](https://img.shields.io/badge/Validation%20Lab-Explore-16A34A?style=flat-square&logo=testinglibrary&logoColor=white)](https://lab.hakdogan.com)
+[![QA Learning Lab](https://img.shields.io/badge/QA%20Learning%20Lab-Explore-16A34A?style=flat-square&logo=testinglibrary&logoColor=white)](https://lab.hakdogan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanakdogan1/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://hakdogan26.medium.com/)
 
@@ -48,25 +48,23 @@ My approach to quality engineering goes beyond test execution. I focus on identi
 
 ## 🚀 Featured Work
 
-### 🧪 Validation Lab
+### 🧪 QA Learning & Practice Lab
 
-An interactive QA practice platform designed to explore real-world software testing scenarios and test automation techniques.
+An interactive learning and practice environment designed to explore software testing concepts, real-world QA scenarios, and test automation techniques.
 
-**Practice areas:**
+**Focus areas:**
 
-- UI Elements and browser interactions
+- Manual and exploratory testing
+- UI components and browser interactions
 - Form validation and negative testing
-- Functional and exploratory testing
-- Realistic user scenarios
+- Functional testing scenarios
 - Bug identification and defect reporting
 - Playwright + TypeScript automation
 - Page Object Model (POM)
-- API testing and contract validation
-- Test reporting and evidence
+- API testing fundamentals
+- Test design and quality assurance practices
 
-**Explore the platform:**
-
-👉 **[Open Validation Lab](https://lab.hakdogan.com)**
+👉 **[Explore QA Learning & Practice Lab](https://lab.hakdogan.com)**
 
 ---
 
