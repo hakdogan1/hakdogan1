@@ -88,7 +88,7 @@ My personal QA engineering portfolio showcasing automation examples, testing pra
 
 Technical articles and notes covering software testing, QA automation, Playwright, test design, and quality engineering practices.
 
-👉 **[Read on Medium](https://hakdogan26.medium.com/)**
+👉 **[Read on Medium](https://medium.com/@hakdogan1)**
 
 ---
 
