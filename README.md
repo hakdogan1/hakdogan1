@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-hakdogan.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.hakdogan.com)
 [![QA Learning Lab](https://img.shields.io/badge/QA%20Learning%20Lab-Explore-16A34A?style=flat-square&logo=testinglibrary&logoColor=white)](https://lab.hakdogan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanakdogan1/)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://hakdogan26.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hakdogan1)
 
 </div>
 
