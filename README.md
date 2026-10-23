@@ -111,8 +111,8 @@ Technical articles and notes covering software testing, QA automation, Playwrigh
 
 I'm open to **QA Automation / Quality Engineering opportunities**, technical collaboration, and discussions about software testing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanakdogan1/)
-[![Email](https://img.shields.io/badge/Email-hakdogan%40live.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hakdogan@live.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakdogan1/)
+[![Email](https://img.shields.io/badge/Email-hakdogan%40live.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@hakdogan.com)
 
 ---
 
