@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img
@@ -6,11 +7,12 @@
   width="100%"
 />
 
-### Reliable test automation. Better product quality.
+### Reliable Test Automation. Better Product Quality.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hakdogan.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.hakdogan.com)
-[![QA Learning Lab](https://img.shields.io/badge/QA%20Learning%20Lab-Explore-16A34A?style=flat-square&logo=testinglibrary&logoColor=white)](https://lab.hakdogan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanakdogan1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.hakdogan.com)
+[![QA Practice](https://img.shields.io/badge/QA%20Practice-Platform-16A34A?style=flat-square&logo=testinglibrary&logoColor=white)](https://qapractice.hakdogan.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hakdogan1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakdogan1)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hakdogan1)
 
 </div>
@@ -19,13 +21,15 @@
 
 ## 👋 About Me
 
-I'm a **QA Automation Engineer** with experience in manual and automated testing across web and mobile applications.
+I'm a **QA Automation Engineer** with hands-on experience in manual and automated testing across web and mobile applications.
 
-My primary automation stack is **Playwright + TypeScript**, including designing and maintaining test automation frameworks using the **Page Object Model (POM)**.
+My primary automation stack is **Playwright + TypeScript**, with a focus on building and maintaining reliable end-to-end test automation using the **Page Object Model (POM)**.
 
-I also have hands-on experience with **Selenium WebDriver + Java**, REST API testing, SQL, Jenkins CI/CD, and functional, exploratory, and regression testing.
+I also have experience with **Selenium WebDriver + Java**, REST API testing, SQL/database validation, Jenkins CI pipelines, and Agile/Scrum workflows.
 
-My approach to quality engineering goes beyond test execution. I focus on identifying missing scenarios, edge cases, usability issues, and potential product risks before release.
+My approach to quality engineering extends beyond test execution. I focus on understanding requirements, identifying edge cases, evaluating product risks, and providing meaningful feedback throughout the software development lifecycle.
+
+**My focus:** Reliable automation, maintainable test frameworks, effective test coverage, and continuous improvement.
 
 ---
 
@@ -37,58 +41,74 @@ My approach to quality engineering goes beyond test execution. I focus on identi
 | **Languages** | TypeScript, Java, JavaScript |
 | **API Testing** | Postman, REST Assured |
 | **Database** | PostgreSQL, SQL, JDBC |
-| **CI/CD & Build** | Jenkins, Maven, npm |
+| **CI & Build Tools** | Jenkins, Maven, npm |
 | **Version Control** | Git, GitHub, GitLab |
 | **Test Management** | Jira, Xray |
-| **Testing Practices** | Functional, Regression, Smoke, Exploratory, E2E |
-| **Methodologies** | SDLC, STLC, Agile/Scrum |
-| **AI-Assisted QA** | ChatGPT, Cursor |
+| **Testing Practices** | Functional, Regression, Smoke, Exploratory, E2E, Manual Testing |
+| **QA Processes** | Requirement Analysis, Test Design, Test Execution, Defect Reporting |
+| **Development Lifecycle** | SDLC, STLC, Agile/Scrum |
+| **AI-Assisted Development** | ChatGPT, Cursor |
 
 ---
 
 ## 🚀 Featured Work
 
-### 🧪 QA Learning & Practice Lab
+### 🧪 QA Practice Platform
 
-An interactive learning and practice environment designed to explore software testing concepts, real-world QA scenarios, and test automation techniques.
+An interactive environment designed for practicing software testing and browser automation through hands-on UI interactions and test scenarios.
 
-**Focus areas:**
+**Practice areas include:**
 
-- Manual and exploratory testing
-- UI components and browser interactions
-- Form validation and negative testing
-- Functional testing scenarios
-- Bug identification and defect reporting
-- Playwright + TypeScript automation
-- Page Object Model (POM)
-- API testing fundamentals
-- Test design and quality assurance practices
+- Buttons and click interactions
+- Radio buttons and selection controls
+- Dropdowns and select elements
+- JavaScript alerts and dialogs
+- Keyboard interactions and typing
+- Mouse actions and hover interactions
+- Drag-and-drop functionality
+- File upload scenarios
+- Forms and input validation
+- Positive, negative, and edge-case testing
 
-👉 **[Explore QA Learning & Practice Lab](https://lab.hakdogan.com)**
+The platform provides a practical environment for exploring browser behavior, creating test scenarios, and practicing UI automation with tools such as Playwright.
+
+👉 **[Explore QA Practice Platform](https://qapractice.hakdogan.com)**
 
 ---
 
-### 🌐 QA Portfolio
+### 🌐 QA Engineering Portfolio
 
-My personal QA engineering portfolio showcasing automation examples, testing practices, technical resources, and interactive demonstrations.
+My personal QA engineering portfolio showcasing practical testing knowledge, automation demonstrations, technical resources, and quality engineering workflows.
 
 **Highlights:**
 
-- Playwright automation demonstrations
-- Selenium and Java testing experience
-- CI/CD pipeline concepts
+- Playwright + TypeScript automation demonstrations
+- Selenium WebDriver + Java experience
+- Page Object Model (POM) concepts
+- Jenkins CI pipeline demonstrations
 - Test execution and reporting
-- QA tools and practical examples
+- QA workflows from requirements to release readiness
+- Technical resources and testing cheat sheets
+- Interactive QA examples
 
-👉 **[Visit Portfolio](https://www.hakdogan.com)**
+👉 **[Visit My Portfolio](https://www.hakdogan.com)**
 
 ---
 
 ### ✍️ Technical Writing
 
-Technical articles and notes covering software testing, QA automation, Playwright, test design, and quality engineering practices.
+I share articles and practical insights about software testing, quality engineering, and automation.
 
-👉 **[Read on Medium](https://medium.com/@hakdogan1)**
+**Topics include:**
+
+- Playwright and TypeScript
+- Test automation frameworks
+- Software testing practices
+- Test design and defect reporting
+- Agile QA workflows
+- Continuous integration and test quality
+
+👉 **[Read My Articles on Medium](https://medium.com/@hakdogan1)**
 
 ---
 
@@ -109,10 +129,12 @@ Technical articles and notes covering software testing, QA automation, Playwrigh
 
 ## 📫 Connect With Me
 
-I'm open to **QA Automation / Quality Engineering opportunities**, technical collaboration, and discussions about software testing.
+I'm open to **QA Automation Engineer, QA Engineer, and Quality Engineering opportunities**, as well as technical collaboration and discussions about software testing.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Akdogan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakdogan1/)
-[![Email](https://img.shields.io/badge/Email-contact%hakdogan.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@hakdogan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakdogan1)
+[![Email](https://img.shields.io/badge/Email-contact%40hakdogan.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@hakdogan.com)
+
+**Email:** [contact@hakdogan.com](mailto:contact@hakdogan.com)
 
 ---
 
